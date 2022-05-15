@@ -1,9 +1,9 @@
-## Hi, I'm Gustavo 👋
+## Hi, I'm Gustavo. 👋
 
 <div align="center">
   <a href="https://github.com/gogoncalves">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gogoncalves&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogoncalves&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=gogoncalves&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogoncalves&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
