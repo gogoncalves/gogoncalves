@@ -1,4 +1,4 @@
-## Hi, I'm Gustavo. 👋
+## Olá, Sou o Gustavo. 👋
 
 <div align="center">
   <a href="https://gogoncalves.github.io">
