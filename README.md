@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://gogoncalves.github.io">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gogoncalves&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=gogoncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
