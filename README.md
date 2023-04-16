@@ -1,12 +1,12 @@
 <div align="center">
   <p align="center">
 <a href="https://github.com/gogoncalves">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=F7F7F7&multiline=true&width=500&height=80&lines=Gustavo+Goncalves;Back-end+Developer+%7C+Tech+Student+%7C+Software+Engineer;ML+%7C+Leadership" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=F7F7F7&multiline=true&width=500&height=80&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Gustavo+Goncalves;Back-end+Developer+%7C+Tech+Student+%7C+Software+Engineer;ML+%7C+Leadership" alt="Typing SVG" />
 </a>
 <br/>
 
 <a href="https://github.com/gogoncalves">
-    <img src="https://github-stats-alpha.vercel.app/api?username=gogoncalves&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=gogoncalves&cc=22272e&tc=F7F7F7&ic=fff&bc=0000">
 </a>
 
 </p>
