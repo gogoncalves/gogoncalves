@@ -6,10 +6,12 @@
         alt="Typing SVG"
       />
     </a>
-    <br />
+    <br/>
 
     <a href="https://github.com/gogoncalves">
+      
       <img src="https://github-stats-alpha.vercel.app/api?username=gogoncalves&cc=22272e&tc=F7F7F7&ic=fff&bc=0000"/>
+    
     </a>
   </p>
 </div>
