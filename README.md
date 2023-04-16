@@ -31,8 +31,6 @@
     <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
     
-    ##
-   
   <div> 
     <a href="https://www.youtube.com/channel/UCTDCfl34FgB0bIAJTXRGH3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href = "mailto:gustavo.goncalves@sptech.school"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
