@@ -11,6 +11,7 @@
 
 </p>
 </div>
+
 * 📖 Graduating in Information Systems @ [São Paulo Tech School](https://www.sptech.school/). 
 
 * 💡 Open to collaborating on projects and innovative ideas. 
