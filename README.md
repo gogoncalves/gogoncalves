@@ -1,8 +1,22 @@
-## Olá, Sou o Gustavo. 👋
-
 <div align="center">
-  <a href="https://gogoncalves.github.io">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=gogoncalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <p align="center">
+<a href="https://github.com/gogoncalves">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gustavo+Goncalves;Back-end+Developer+%7C+Tech+Student+%7C+Software+Engineer;ML+%7C+Leadership" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href="https://github.com/gogoncalves">
+    <img src="https://github-stats-alpha.vercel.app/api?username=gogoncalves&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+</p>
+
+* 📖 Graduating in Information Systems @ [São Paulo Tech School](https://www.sptech.school/). 
+
+* 💡 Open to collaborating on projects and innovative ideas. 
+
+* 💻 Currently working in machine learning, development of support solutions and integrated testing.
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
