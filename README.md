@@ -12,10 +12,8 @@
   
   </p>
   </div>
-  <div align="center">
-  <img src="https://th.bing.com/th/id/R.dff886e4a11799fc4f77d86ae8fcc574?rik=U%2f%2fQGlLhqIY00w&riu=http%3a%2f%2f31.media.tumblr.com%2f3b62e71ef618fff36381ca39e8c68392%2ftumblr_mqeo0dTJAU1spo3yuo1_500.gif&ehk=LzFCedokQw9nOqOZJIDYwv0JAFMNKfIfNPaapYOLAUY%3d&risl=&pid=ImgRaw&r=0" style="height: 100px">
-    </div>
-    
+  
+  
   * 📖 Graduating in Information Systems @ [São Paulo Tech School](https://www.sptech.school/). 
   
   * 💡 Open to collaborating on projects and innovative ideas. 
@@ -34,7 +32,7 @@
     <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
-   <br>
+   <img src="https://th.bing.com/th/id/R.dff886e4a11799fc4f77d86ae8fcc574?rik=U%2f%2fQGlLhqIY00w&riu=http%3a%2f%2f31.media.tumblr.com%2f3b62e71ef618fff36381ca39e8c68392%2ftumblr_mqeo0dTJAU1spo3yuo1_500.gif&ehk=LzFCedokQw9nOqOZJIDYwv0JAFMNKfIfNPaapYOLAUY%3d&risl=&pid=ImgRaw&r=0" style="height: 100px; margin-top: 10px">
   <div> 
     <a href="https://www.youtube.com/channel/UCTDCfl34FgB0bIAJTXRGH3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href = "mailto:gustavo.goncalves@sptech.school"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
