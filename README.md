@@ -21,7 +21,7 @@
   * 💻 Currently working in machine learning, development of support solutions and integrated testing.
   
   <div align="center">
-    <img src="https://th.bing.com/th/id/R.dff886e4a11799fc4f77d86ae8fcc574?rik=U%2f%2fQGlLhqIY00w&riu=http%3a%2f%2f31.media.tumblr.com%2f3b62e71ef618fff36381ca39e8c68392%2ftumblr_mqeo0dTJAU1spo3yuo1_500.gif&ehk=LzFCedokQw9nOqOZJIDYwv0JAFMNKfIfNPaapYOLAUY%3d&risl=&pid=ImgRaw&r=0" style="height: 100px">
+    <img src="https://th.bing.com/th/id/R.dff886e4a11799fc4f77d86ae8fcc574?rik=U%2f%2fQGlLhqIY00w&riu=http%3a%2f%2f31.media.tumblr.com%2f3b62e71ef618fff36381ca39e8c68392%2ftumblr_mqeo0dTJAU1spo3yuo1_500.gif&ehk=LzFCedokQw9nOqOZJIDYwv0JAFMNKfIfNPaapYOLAUY%3d&risl=&pid=ImgRaw&r=0" style="height: 60px">
   <div style="display: inline_block"><br>
     <img align="center" alt="Gusta-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
