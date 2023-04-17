@@ -6,14 +6,16 @@
   <br/>
   
   <a href="https://github.com/gogoncalves">
-      <img src="https://th.bing.com/th/id/R.dff886e4a11799fc4f77d86ae8fcc574?rik=U%2f%2fQGlLhqIY00w&riu=http%3a%2f%2f31.media.tumblr.com%2f3b62e71ef618fff36381ca39e8c68392%2ftumblr_mqeo0dTJAU1spo3yuo1_500.gif&ehk=LzFCedokQw9nOqOZJIDYwv0JAFMNKfIfNPaapYOLAUY%3d&risl=&pid=ImgRaw&r=0" style="height: 200px">
       <img src="https://github-stats-alpha.vercel.app/api?username=gogoncalves&cc=22272e&tc=F7F7F7&ic=fff&bc=0000">
-      <img src="https://th.bing.com/th/id/R.dff886e4a11799fc4f77d86ae8fcc574?rik=U%2f%2fQGlLhqIY00w&riu=http%3a%2f%2f31.media.tumblr.com%2f3b62e71ef618fff36381ca39e8c68392%2ftumblr_mqeo0dTJAU1spo3yuo1_500.gif&ehk=LzFCedokQw9nOqOZJIDYwv0JAFMNKfIfNPaapYOLAUY%3d&risl=&pid=ImgRaw&r=0" style="height: 200px">
+      
   </a>
   
   </p>
   </div>
-  
+  <div align="center">
+  <img src="https://th.bing.com/th/id/R.dff886e4a11799fc4f77d86ae8fcc574?rik=U%2f%2fQGlLhqIY00w&riu=http%3a%2f%2f31.media.tumblr.com%2f3b62e71ef618fff36381ca39e8c68392%2ftumblr_mqeo0dTJAU1spo3yuo1_500.gif&ehk=LzFCedokQw9nOqOZJIDYwv0JAFMNKfIfNPaapYOLAUY%3d&risl=&pid=ImgRaw&r=0" style="height: 100px">
+    </div>
+    
   * 📖 Graduating in Information Systems @ [São Paulo Tech School](https://www.sptech.school/). 
   
   * 💡 Open to collaborating on projects and innovative ideas. 
