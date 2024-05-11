@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
   <a href="https://github.com/gogoncalves">
-      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gustavo+Goncalves;Back-end+Developer+%7C+Tech+Student+%7C+Software+Engineer;Process+improvement+%7C+ML+%7C+Leadership" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gustavo+Goncalves;Full-Stack+Developer+%7C+Tech+Student+%7C+Software+Engineer;Process+improvement+%7C+ML+%7C+Leadership" alt="Typing SVG" />
   </a>
   <br/>
   
