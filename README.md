@@ -12,10 +12,7 @@
   
   </p>
   </div>
-  
-  
-  * 📖 Graduating in Information Systems @ [São Paulo Tech School](https://www.sptech.school/). 
-  
+    
   * 💡 Open to collaborating on projects and innovative ideas. 
   
   * 💻 Currently working in machine learning, development of support solutions and integrated testing.
@@ -48,8 +45,6 @@
   </div>
    <br>
   <div> 
-    <a href="https://www.youtube.com/channel/UCTDCfl34FgB0bIAJTXRGH3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href = "mailto:gustavo.goncalves@sptech.school"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gogoncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href = "mailto:gusta.goncalves@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   </div>
